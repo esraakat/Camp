@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camp", "Camp\Camp.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{11FBA384-EFC4-41CC-9286-3D0A28CFAFEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{AEB2A878-96A7-4551-8A95-24C6EC134ADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{AEB2A878-96A7-4551-8A95-24C6EC134ADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsIntro", "LoopsIntro\LoopsIntro.csproj", "{3E8E210C-41E8-41F9-B899-6A8B7FC0CFAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsIntro", "LoopsIntro\LoopsIntro.csproj", "{3E8E210C-41E8-41F9-B899-6A8B7FC0CFAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueandReferenceTypes", "ValueandReferenceTypes\ValueandReferenceTypes.csproj", "{EA837509-D46A-4B55-8912-43963236A177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueandReferenceTypes", "ValueandReferenceTypes\ValueandReferenceTypes.csproj", "{EA837509-D46A-4B55-8912-43963236A177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueandRefernceTypes", "ValueandRefernceTypes\ValueandRefernceTypes.csproj", "{85F7B9D1-D49F-4B9C-9A96-3A91D82C05B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EA837509-D46A-4B55-8912-43963236A177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA837509-D46A-4B55-8912-43963236A177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA837509-D46A-4B55-8912-43963236A177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F7B9D1-D49F-4B9C-9A96-3A91D82C05B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F7B9D1-D49F-4B9C-9A96-3A91D82C05B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F7B9D1-D49F-4B9C-9A96-3A91D82C05B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F7B9D1-D49F-4B9C-9A96-3A91D82C05B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
