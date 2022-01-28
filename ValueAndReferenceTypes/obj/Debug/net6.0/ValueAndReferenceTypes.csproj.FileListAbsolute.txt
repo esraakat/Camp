@@ -12,3 +12,4 @@ C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAn
 C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ref\ValueAndReferenceTypes.dll
 C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.pdb
 C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.genruntimeconfig.cache
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.csproj.AssemblyReference.cache

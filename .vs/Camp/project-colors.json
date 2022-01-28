@@ -35,7 +35,12 @@
       "ProjectGuid": "127506bc-ddad-459b-9bf6-35b869582c04",
       "DisplayName": "ValueAndReferenceTypes",
       "ColorIndex": 6
+    },
+    "a157a4fc-4452-4f51-84eb-f3c76f36e002": {
+      "ProjectGuid": "a157a4fc-4452-4f51-84eb-f3c76f36e002",
+      "DisplayName": "ClassMetotDemo",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

@@ -8,10 +8,10 @@ namespace Methods
 {
     internal class Product
     {
-        public int productId { get; set; }
-        public string productName { get; set; }
-        public double price { get; set; }
-        public string details { get; set; }
-        public int stock { get; set; }                 
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+        public double Price { get; set; }
+        public string Details { get; set; }
+        public int Stock { get; set; }                 
     }
 }
