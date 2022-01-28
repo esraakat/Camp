@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4286173c-f084-4197-9b14-c8acf3678de2": {
+      "ProjectGuid": "4286173c-f084-4197-9b14-c8acf3678de2",
+      "DisplayName": "Camp",
+      "ColorIndex": 0
+    },
+    "265f27bb-94e9-41c0-a509-dae512b71c63": {
+      "ProjectGuid": "265f27bb-94e9-41c0-a509-dae512b71c63",
+      "DisplayName": "Loops",
+      "ColorIndex": 1
+    },
+    "6875a54b-c647-4dd0-b93f-ffcaaa9970e3": {
+      "ProjectGuid": "6875a54b-c647-4dd0-b93f-ffcaaa9970e3",
+      "DisplayName": "ClassIntro",
+      "ColorIndex": 2
+    },
+    "474ed4ad-9b59-4a5b-8543-b666a195feb6": {
+      "ProjectGuid": "474ed4ad-9b59-4a5b-8543-b666a195feb6",
+      "DisplayName": "ClassExample",
+      "ColorIndex": 3
+    },
+    "9964b42e-c276-4b61-a72a-cd4478b3d156": {
+      "ProjectGuid": "9964b42e-c276-4b61-a72a-cd4478b3d156",
+      "DisplayName": "Methods",
+      "ColorIndex": 4
+    },
+    "b2a25732-61b6-4a2d-9b82-80b7aa44788c": {
+      "ProjectGuid": "b2a25732-61b6-4a2d-9b82-80b7aa44788c",
+      "DisplayName": "Maths",
+      "ColorIndex": 5
+    },
+    "127506bc-ddad-459b-9bf6-35b869582c04": {
+      "ProjectGuid": "127506bc-ddad-459b-9bf6-35b869582c04",
+      "DisplayName": "ValueAndReferenceTypes",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

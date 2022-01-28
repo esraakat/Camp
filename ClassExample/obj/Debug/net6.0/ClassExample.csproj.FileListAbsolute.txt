@@ -1,0 +1,15 @@
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ClassExample.exe
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ClassExample.deps.json
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ClassExample.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ClassExample.dll
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ref\ClassExample.dll
+C:\Users\eakat\source\repos\Camp\ClassExample\bin\Debug\net6.0\ClassExample.pdb
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.csproj.AssemblyReference.cache
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.dll
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ref\ClassExample.dll
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.pdb
+C:\Users\eakat\source\repos\Camp\ClassExample\obj\Debug\net6.0\ClassExample.genruntimeconfig.cache

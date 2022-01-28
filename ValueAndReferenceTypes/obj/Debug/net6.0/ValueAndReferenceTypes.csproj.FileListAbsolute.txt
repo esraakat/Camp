@@ -1,0 +1,14 @@
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ValueAndReferenceTypes.exe
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ValueAndReferenceTypes.deps.json
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ValueAndReferenceTypes.dll
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ref\ValueAndReferenceTypes.dll
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\bin\Debug\net6.0\ValueAndReferenceTypes.pdb
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.dll
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ref\ValueAndReferenceTypes.dll
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.pdb
+C:\Users\eakat\source\repos\Camp\ValueAndReferenceTypes\obj\Debug\net6.0\ValueAndReferenceTypes.genruntimeconfig.cache

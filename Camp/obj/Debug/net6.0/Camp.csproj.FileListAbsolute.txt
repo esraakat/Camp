@@ -1,0 +1,15 @@
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.csproj.AssemblyReference.cache
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\Camp.exe
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\Camp.deps.json
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\Camp.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\Camp.dll
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\ref\Camp.dll
+C:\Users\eakat\source\repos\Camp\Camp\bin\Debug\net6.0\Camp.pdb
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.dll
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\ref\Camp.dll
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.pdb
+C:\Users\eakat\source\repos\Camp\Camp\obj\Debug\net6.0\Camp.genruntimeconfig.cache
