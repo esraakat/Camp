@@ -15,6 +15,5 @@ namespace Generics
             names.Add("Esra");
             Console.WriteLine(names.Count);
         }
-
     }
 }
