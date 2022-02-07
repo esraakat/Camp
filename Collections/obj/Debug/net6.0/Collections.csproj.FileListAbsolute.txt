@@ -1,0 +1,15 @@
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\Collections.exe
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\Collections.deps.json
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\Collections.dll
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\ref\Collections.dll
+C:\Users\eakat\source\repos\Camp\Collections\bin\Debug\net6.0\Collections.pdb
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.dll
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\ref\Collections.dll
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.pdb
+C:\Users\eakat\source\repos\Camp\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache

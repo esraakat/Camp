@@ -7,29 +7,29 @@ namespace ClassExample
         static void Main(string[] args)
         {
             Product product1 = new Product();
-            product1.productId = 1;
-            product1.productName = "Skirt";
-            product1.price = 149.99;
-            product1.stock = 10;
+            product1.ProductId = 1;
+            product1.ProductName = "Skirt";
+            product1.Price = 149.99;
+            product1.Stock = 10;
 
 
             Product product2 = new Product();
-            product2.productId = 2;
-            product2.productName = "Shoes";
-            product2.price = 450.99;
-            product2.stock = 5;
+            product2.ProductId = 2;
+            product2.ProductName = "Shoes";
+            product2.Price = 450.99;
+            product2.Stock = 5;
 
             Product product3 = new Product();
-            product3.productId = 3;
-            product3.productName = "T-shirt";
-            product3.price = 99.99;
-            product3.stock = 7;
+            product3.ProductId = 3;
+            product3.ProductName = "T-shirt";
+            product3.Price = 99.99;
+            product3.Stock = 7;
 
             Product[] products = new Product[] { product1, product2, product3 };
 
             int i = 0;
             while(i < products.Length){
-                Console.WriteLine(products[i].productId + " - " + products[i].productName + " : " + products[i].price);
+                Console.WriteLine(products[i].ProductId + " - " + products[i].ProductName + " : " + products[i].Price);
                 i++;
             }
 
@@ -37,14 +37,14 @@ namespace ClassExample
 
             for (int j = 0; j < products.Length; j++)
             {
-                Console.WriteLine(products[j].productId + " - " + products[j].productName + " : " + products[j].price);
+                Console.WriteLine(products[j].ProductId + " - " + products[j].ProductName + " : " + products[j].Price);
             }
 
             Console.WriteLine("\n----------For loop ended--------\n");
 
             foreach (Product product in products)
             {
-                Console.WriteLine(product.productId + " - " + product.productName + " : " + product.price);
+                Console.WriteLine(product.ProductId + " - " + product.ProductName + " : " + product.Price);
             }
 
             Console.WriteLine("\n----------Foreach loop ended--------\n");
@@ -56,8 +56,8 @@ namespace ClassExample
 
 class Product
 {
-    public int productId { get; set; }
-    public string productName { get; set; }
-    public double price { get; set; }
-    public int stock { get; set; }
+    public int ProductId { get; set; }
+    public string ProductName { get; set; }
+    public double Price { get; set; }
+    public int Stock { get; set; }
 }

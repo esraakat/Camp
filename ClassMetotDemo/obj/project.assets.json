@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eakat\\source\\repos\\Camp\\ClassMetotDemo\\ClassMetotDemo.csproj",
-      "projectName": "ClassMetotDemo",
-      "projectPath": "C:\\Users\\eakat\\source\\repos\\Camp\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectUniqueName": "C:\\Users\\eakat\\source\\repos\\Camp\\ClassMetotDemo\\ClassMethodDemo.csproj",
+      "projectName": "ClassMethodDemo",
+      "projectPath": "C:\\Users\\eakat\\source\\repos\\Camp\\ClassMetotDemo\\ClassMethodDemo.csproj",
       "packagesPath": "C:\\Users\\eakat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eakat\\source\\repos\\Camp\\ClassMetotDemo\\obj\\",
       "projectStyle": "PackageReference",

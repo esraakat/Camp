@@ -1,0 +1,15 @@
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ClassMethodDemo.exe
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ClassMethodDemo.deps.json
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ClassMethodDemo.dll
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ref\ClassMethodDemo.dll
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\bin\Debug\net6.0\ClassMethodDemo.pdb
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.dll
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMethodDemo.dll
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.pdb
+C:\Users\eakat\source\repos\Camp\ClassMetotDemo\obj\Debug\net6.0\ClassMethodDemo.genruntimeconfig.cache

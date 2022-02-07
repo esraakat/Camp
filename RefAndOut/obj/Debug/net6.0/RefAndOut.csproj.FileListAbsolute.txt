@@ -1,0 +1,14 @@
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\RefAndOut.exe
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\RefAndOut.deps.json
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\RefAndOut.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\RefAndOut.dll
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\ref\RefAndOut.dll
+C:\Users\eakat\source\repos\Camp\RefAndOut\bin\Debug\net6.0\RefAndOut.pdb
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.dll
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\ref\RefAndOut.dll
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.pdb
+C:\Users\eakat\source\repos\Camp\RefAndOut\obj\Debug\net6.0\RefAndOut.genruntimeconfig.cache

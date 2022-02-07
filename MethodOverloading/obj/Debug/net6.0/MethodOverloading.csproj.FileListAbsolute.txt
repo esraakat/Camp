@@ -1,0 +1,14 @@
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\ref\MethodOverloading.dll
+C:\Users\eakat\source\repos\Camp\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+C:\Users\eakat\source\repos\Camp\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache

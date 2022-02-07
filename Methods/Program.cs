@@ -7,28 +7,28 @@ namespace Methods
         static void Main(string[] args)
         {
             Product product1 = new Product();
-            product1.productId = 1;
-            product1.productName = "Elma";
-            product1.price = 15;
-            product1.details = "Amasya elması";
+            product1.ProductId = 1;
+            product1.ProductName = "Elma";
+            product1.Price = 15;
+            product1.Details = "Amasya elması";
 
             Product product2 = new Product();
-            product2.productId = 2;
-            product2.productName = "Karpuz";
-            product2.price = 80;
-            product2.details = "Diyarbakır karpuzu";
+            product2.ProductId = 2;
+            product2.ProductName = "Karpuz";
+            product2.Price = 80;
+            product2.Details = "Diyarbakır karpuzu";
 
             Product product3 = new Product();
-            product3.productId = 3;
-            product3.productName = "Patates";
-            product3.price = 20;
-            product3.details = "Afyonkarahisar patatesi";
+            product3.ProductId = 3;
+            product3.ProductName = "Patates";
+            product3.Price = 20;
+            product3.Details = "Afyonkarahisar patatesi";
 
             Product[] products = new Product[] {product1, product2, product3};
 
             foreach (Product product in products)
             {
-                Console.WriteLine(product.productName + " \n" + product.details + " : " + product.price);
+                Console.WriteLine(product.ProductName + " \n" + product.Details + " : " + product.Price);
                 Console.WriteLine();
             }
 

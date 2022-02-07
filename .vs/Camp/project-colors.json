@@ -40,7 +40,47 @@
       "ProjectGuid": "a157a4fc-4452-4f51-84eb-f3c76f36e002",
       "DisplayName": "ClassMetotDemo",
       "ColorIndex": 7
+    },
+    "f661a878-cf1a-4f80-9e9f-47afd96954a4": {
+      "ProjectGuid": "f661a878-cf1a-4f80-9e9f-47afd96954a4",
+      "DisplayName": "RefAndOut",
+      "ColorIndex": 8
+    },
+    "455cb7d4-dcd7-4e90-82ee-ce9e429cd321": {
+      "ProjectGuid": "455cb7d4-dcd7-4e90-82ee-ce9e429cd321",
+      "DisplayName": "MethodOverloading",
+      "ColorIndex": 9
+    },
+    "3274f661-6491-454b-8ed5-6620b7680382": {
+      "ProjectGuid": "3274f661-6491-454b-8ed5-6620b7680382",
+      "DisplayName": "OOP1",
+      "ColorIndex": 10
+    },
+    "524278b0-337f-4782-a638-d2ad3a691522": {
+      "ProjectGuid": "524278b0-337f-4782-a638-d2ad3a691522",
+      "DisplayName": "Collections",
+      "ColorIndex": 11
+    },
+    "9b5d42a4-e09a-401c-8492-4b82ec1e4ab6": {
+      "ProjectGuid": "9b5d42a4-e09a-401c-8492-4b82ec1e4ab6",
+      "DisplayName": "GenericsIntro",
+      "ColorIndex": 12
+    },
+    "9fc84f4f-3056-4935-980d-904b22fced07": {
+      "ProjectGuid": "9fc84f4f-3056-4935-980d-904b22fced07",
+      "DisplayName": "ValueandReferenceTypes2",
+      "ColorIndex": 13
+    },
+    "608e8389-12d4-4121-97df-485121eb7e41": {
+      "ProjectGuid": "608e8389-12d4-4121-97df-485121eb7e41",
+      "DisplayName": "Constructor",
+      "ColorIndex": 14
+    },
+    "cc703fb4-077a-4ab4-b72c-6ab2ba73de17": {
+      "ProjectGuid": "cc703fb4-077a-4ab4-b72c-6ab2ba73de17",
+      "DisplayName": "Generics",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 0
 }

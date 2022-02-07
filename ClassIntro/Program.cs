@@ -8,27 +8,27 @@ namespace ClassIntro
 		static void Main(string[] args)
 		{
 			Course course1 = new Course();
-			course1.courseName = "C#";
-			course1.egitmen = "Engin Demiroğ";
-			course1.izlenmeOranı = 65;
+			course1.CourseName = "C#";
+			course1.Egitmen = "Engin Demiroğ";
+			course1.IzlenmeOranı = 65;
 
 
 			Course course2 = new Course();
-			course2.courseName = "Java";
-			course2.egitmen = "Esra Akat";
-			course2.izlenmeOranı = 75;
+			course2.CourseName = "Java";
+			course2.Egitmen = "Esra Akat";
+			course2.IzlenmeOranı = 75;
 
 
 			Course course3 = new Course();
-			course3.courseName = "Python";
-			course3.egitmen = "Kerem Varış";
-			course3.izlenmeOranı = 85;
+			course3.CourseName = "Python";
+			course3.Egitmen = "Kerem Varış";
+			course3.IzlenmeOranı = 85;
 
 
 			Course[] courses = new Course[] { course1, course2, course3 };
 			foreach (Course course in courses)
 			{
-				Console.WriteLine(course.courseName + ": " + course.egitmen);
+				Console.WriteLine(course.CourseName + ": " + course.Egitmen);
 			}
 		}
 	}
@@ -36,9 +36,9 @@ namespace ClassIntro
 
 	class Course
 	{
-		public string courseName { get; set; }
-		public string egitmen { get; set; }
-		public int izlenmeOranı { get; set; }
+		public string CourseName { get; set; }
+		public string Egitmen { get; set; }
+		public int IzlenmeOranı { get; set; }
 	}
 
 
