@@ -11,7 +11,7 @@ namespace MyDictionary
             myDictionary.Add("Ferhat", 19);
             myDictionary.Add("Yusuf", 17);
             myDictionary.Add("Eylem", 15);
-            Console.WriteLine(myDictionary.Count);
+            Console.WriteLine(myDictionary.Count); 
         }
     }
 }
