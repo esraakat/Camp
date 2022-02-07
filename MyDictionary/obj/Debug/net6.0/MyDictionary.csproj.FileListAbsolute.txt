@@ -4,7 +4,6 @@ C:\Users\eakat\source\repos\Camp\MyDictionary\bin\Debug\net6.0\MyDictionary.runt
 C:\Users\eakat\source\repos\Camp\MyDictionary\bin\Debug\net6.0\MyDictionary.dll
 C:\Users\eakat\source\repos\Camp\MyDictionary\bin\Debug\net6.0\ref\MyDictionary.dll
 C:\Users\eakat\source\repos\Camp\MyDictionary\bin\Debug\net6.0\MyDictionary.pdb
-C:\Users\eakat\source\repos\Camp\MyDictionary\obj\Debug\net6.0\MyDictionary.csproj.AssemblyReference.cache
 C:\Users\eakat\source\repos\Camp\MyDictionary\obj\Debug\net6.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\eakat\source\repos\Camp\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfoInputs.cache
 C:\Users\eakat\source\repos\Camp\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfo.cs
