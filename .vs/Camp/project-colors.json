@@ -80,7 +80,12 @@
       "ProjectGuid": "cc703fb4-077a-4ab4-b72c-6ab2ba73de17",
       "DisplayName": "Generics",
       "ColorIndex": 15
+    },
+    "4b547bdf-c701-4283-b27f-fb57eaf2580f": {
+      "ProjectGuid": "4b547bdf-c701-4283-b27f-fb57eaf2580f",
+      "DisplayName": "MyDictionary",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
