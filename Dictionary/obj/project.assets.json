@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eakat\\source\\repos\\Camp\\Dictionary\\MyDictionary.csproj",
-      "projectName": "MyDictionary",
-      "projectPath": "C:\\Users\\eakat\\source\\repos\\Camp\\Dictionary\\MyDictionary.csproj",
+      "projectUniqueName": "C:\\Users\\eakat\\source\\repos\\Camp\\Dictionary\\Dictionary.csproj",
+      "projectName": "Dictionary",
+      "projectPath": "C:\\Users\\eakat\\source\\repos\\Camp\\Dictionary\\Dictionary.csproj",
       "packagesPath": "C:\\Users\\eakat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eakat\\source\\repos\\Camp\\Dictionary\\obj\\",
       "projectStyle": "PackageReference",

@@ -95,7 +95,12 @@
       "ProjectGuid": "4a64380d-3894-42a9-b777-33d1519bddc8",
       "DisplayName": "MyDictionary",
       "ColorIndex": 1
+    },
+    "efe79adb-1144-4743-890a-abfcf93cd494": {
+      "ProjectGuid": "efe79adb-1144-4743-890a-abfcf93cd494",
+      "DisplayName": "MyDictionary",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
