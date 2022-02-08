@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueandReferenceTypes2", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{608E8389-12D4-4121-97DF-485121EB7E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "Dictionary\MyDictionary.csproj", "{EFE79ADB-1144-4743-890A-ABFCF93CD494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{EFE79ADB-1144-4743-890A-ABFCF93CD494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
