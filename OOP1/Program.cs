@@ -16,8 +16,16 @@ namespace OOP1
             Product product2 = new Product { Id = 2, CategoryId = 2, ProductName = "Blgisayar", 
                 UnitPrice = 9999, UnitInStock = 5 };
 
-            ProductManager productManager = new ProductManager();
-            productManager.Add(product1);
+            Product[] products = new Product[] { product1, product2 };
+
+            foreach (var product in products)
+            {
+                ProductManager productManager = new ProductManager();
+                productManager.Add(product);
+                productManager.Update(product);
+                productManager.Delete(product);
+                Console.WriteLine("-----------------------");
+            }
         }
     }
 }

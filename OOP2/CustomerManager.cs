@@ -10,7 +10,7 @@ namespace OOP2
     {
         public void Add(Customer customer)
         {
-
+            Console.WriteLine(customer.CustomerNumber + " was added!");
         }
     }
 }

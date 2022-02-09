@@ -27,17 +27,17 @@ namespace ClassMetotDemo
             customer3.Age = 22;
             customer3.City = "Malatya";
 
-            CustomerManager customerManager = new CustomerManager();
-            customerManager.Add(customer1);
-            customerManager.Remove(customer2);
-            customerManager.Update(customer3); 
-
-            Console.WriteLine("--------------------");
-
             Customer[] customers = new Customer[] { customer1, customer2, customer3};
             foreach (Customer customer in customers)
             {
                 Console.WriteLine(customer.Name + " " + customer.Surname + " " + customer.City );
+
+                CustomerManager customerManager1 = new CustomerManager();
+                customerManager1.Add(customer);
+                customerManager1.Remove(customer);
+                customerManager1.Update(customer);
+
+                Console.WriteLine("--------------------");
             }
         }
     }

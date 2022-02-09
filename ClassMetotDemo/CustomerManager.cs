@@ -10,15 +10,15 @@ namespace ClassMetotDemo
     {
         public void Add(Customer customer)
         {
-            Console.WriteLine("Customer was added" + ": " + customer.Name);
+            Console.WriteLine("Customer was added: " + customer.Name);
         }
         public void Remove(Customer customer)
         {
-            Console.WriteLine("Customer was removed" + ": " + customer.Name);
+            Console.WriteLine("Customer was removed: " + customer.Name);
         }
         public void Update(Customer customer)
         {
-            Console.WriteLine("Customer was updated" + ": " + customer.Name);
+            Console.WriteLine("Customer was updated: " + customer.Name);
         }
     }
 }
