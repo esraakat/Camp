@@ -1,0 +1,15 @@
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\OOP3.exe
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\OOP3.deps.json
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\OOP3.runtimeconfig.json
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\OOP3.dll
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\ref\OOP3.dll
+C:\Users\eakat\source\repos\Camp\OOP3\bin\Debug\net6.0\OOP3.pdb
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.csproj.AssemblyReference.cache
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.AssemblyInfoInputs.cache
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.AssemblyInfo.cs
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.dll
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\ref\OOP3.dll
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.pdb
+C:\Users\eakat\source\repos\Camp\OOP3\obj\Debug\net6.0\OOP3.genruntimeconfig.cache

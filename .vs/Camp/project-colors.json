@@ -100,7 +100,17 @@
       "ProjectGuid": "efe79adb-1144-4743-890a-abfcf93cd494",
       "DisplayName": "MyDictionary",
       "ColorIndex": 2
+    },
+    "ec8a4d0b-ea1c-4521-8601-575cd99c9ee9": {
+      "ProjectGuid": "ec8a4d0b-ea1c-4521-8601-575cd99c9ee9",
+      "DisplayName": "OOP2",
+      "ColorIndex": 3
+    },
+    "96558c98-7810-472c-a92a-fe88eacebc9d": {
+      "ProjectGuid": "96558c98-7810-472c-a92a-fe88eacebc9d",
+      "DisplayName": "OOP3",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
