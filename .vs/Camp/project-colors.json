@@ -110,7 +110,12 @@
       "ProjectGuid": "96558c98-7810-472c-a92a-fe88eacebc9d",
       "DisplayName": "OOP3",
       "ColorIndex": 4
+    },
+    "0dbe407e-8c8d-474b-b9c3-468881569824": {
+      "ProjectGuid": "0dbe407e-8c8d-474b-b9c3-468881569824",
+      "DisplayName": "RecapDemo",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
