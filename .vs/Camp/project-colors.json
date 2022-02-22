@@ -115,7 +115,17 @@
       "ProjectGuid": "0dbe407e-8c8d-474b-b9c3-468881569824",
       "DisplayName": "RecapDemo",
       "ColorIndex": 5
+    },
+    "2f552924-7915-4a8b-8026-54659839c541": {
+      "ProjectGuid": "2f552924-7915-4a8b-8026-54659839c541",
+      "DisplayName": "Interface",
+      "ColorIndex": 6
+    },
+    "5221ed2e-c202-485d-9cee-a9b8dc39ab73": {
+      "ProjectGuid": "5221ed2e-c202-485d-9cee-a9b8dc39ab73",
+      "DisplayName": "GameProject",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
