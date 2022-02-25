@@ -125,7 +125,12 @@
       "ProjectGuid": "5221ed2e-c202-485d-9cee-a9b8dc39ab73",
       "DisplayName": "GameProject",
       "ColorIndex": 7
+    },
+    "415e6a0b-f41d-4f3c-8e12-5d9e9ac41c3c": {
+      "ProjectGuid": "415e6a0b-f41d-4f3c-8e12-5d9e9ac41c3c",
+      "DisplayName": "Linq",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
