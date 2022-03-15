@@ -130,7 +130,12 @@
       "ProjectGuid": "415e6a0b-f41d-4f3c-8e12-5d9e9ac41c3c",
       "DisplayName": "Linq",
       "ColorIndex": 8
+    },
+    "9e70fdc0-0dd7-4676-8f15-239ff2473cfc": {
+      "ProjectGuid": "9e70fdc0-0dd7-4676-8f15-239ff2473cfc",
+      "DisplayName": "EntityFrameworkDemo",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
