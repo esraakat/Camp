@@ -2,7 +2,6 @@ C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\EntityFram
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.deps.json
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.runtimeconfig.json
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.dll
-C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\ref\EntityFrameworkDemo.dll
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.pdb
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -54,3 +53,4 @@ C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\obj\Debug\net6.0\EntityFram
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\obj\Debug\net6.0\ref\EntityFrameworkDemo.dll
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.pdb
 C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.genruntimeconfig.cache
+C:\Users\eakat\source\repos\Camp\EntityFrameworkDemo\obj\Debug\net6.0\refint\EntityFrameworkDemo.dll
